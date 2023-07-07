@@ -13,7 +13,7 @@
         >
           {{ config.author }}
         </a></span
-      >&nbsp;&amp;
+      >
       <!-- 站点备案 -->
 
     </div>
